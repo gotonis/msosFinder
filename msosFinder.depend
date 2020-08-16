@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597547692 source:/home/gotonis/Documents/msosFinder/main.cpp
+	<iostream>
+	"calcFuncs.h"
+
+1597548322 /home/gotonis/Documents/msosFinder/calcFuncs.h
+	<cmath>
+	<stdio.h>
+	<iostream>
+	<assert.h>
+
